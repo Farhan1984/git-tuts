@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Introduction</title>
+    <link rel="stylesheet" href="sty.css">
+</head>
+<body>
+    <h1 class="blue" style="color: black;">Introduction to CSS</h1>
+    <p>This is just a quick introduction to CSS.</p>
+</body>
+</html>
